@@ -6,7 +6,7 @@ Tinkering with Elixir [Plug](https://github.com/elixir-lang/plug).
 ```
 $ mix deps.get
 $ PORT=4000 mix run --no-halt
-$ open http://localhost:4000/hello
+$ open http://localhost:4000
 ```
 
 ### Deploy to Heroku:
