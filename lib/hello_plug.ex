@@ -1,0 +1,2 @@
+defmodule HelloPlug do
+end
